@@ -47,9 +47,10 @@ nav a {
     padding: 15px 20px;
 }
 
+/* quitando hover anterior
 nav a:hover {
     background-color: #555;
-}
+} */
 
 
 /* CONTENIDO PRINCIPAL */
@@ -107,4 +108,10 @@ footer {
     color: white;
     text-align: center;
     padding: 20px;
+}
+
+/*Hover enlaces*/
+a:hover{
+    background-color: #1677a8;
+    color: black;
 }
